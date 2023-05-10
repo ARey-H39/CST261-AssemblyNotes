@@ -36,4 +36,4 @@ To compare two numbers and "jump" to a separate label id they are equal or not e
 
 \* You don't have to use both `je` and `jne` if you don't need to, think of them like `if/else`
 
-See [14_selectionComparisons.asm](./14_selectionComparisons.asm) and [14_selectionComparisons.asm](./14_selectionComparisons.asm) for examples and more details.
+See [14_selectionComparisons.asm](./14_selectionComparisons.asm) and [14-example_options.asm](./14-example_options.asm) for examples and more details.
